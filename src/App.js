@@ -9,7 +9,7 @@ const App = () => {
       <h1>Weekly Date Navigator</h1>
       {/* <WeekNavigator /> */}
       <TimezoneSelector />
-      <WeeklySchedule />
+      {/* <WeeklySchedule /> */}
     </div>
   );
 };
